@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stuieordie
-- 👀 I’m interested in bikes, beer, dogs, selfhosting, python, node, ansible
-- 🌱 I’m currently learning kubernetes
-- 💞️ I’m looking to collaborate on fixing typos in READMEs
+- 👀 I’m interested in Python, Ansible, Node, Selfhosting, SSO
+- 🌱 I’m currently learning Kubernetes
+- 💞️ I’m looking to collaborate on any new projects!
 - 📫 How to reach me mark@stuieordie.net
 
 <!---
